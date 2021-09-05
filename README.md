@@ -59,7 +59,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 * The following Gif shows the process of the final application
 
-![mock-up](./assets/img/.gif)
+![mock-up](./assets/img/the-blog.gif)
 
 
 ## Credits
