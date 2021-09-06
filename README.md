@@ -16,6 +16,7 @@ https://github.com/TristanLibeau/MVC-Tech_Blog
 
 * Live url on Heroku:
 
+https://tristan-tech-blog.herokuapp.com/
 
 
 ## Functionality:
@@ -66,4 +67,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 * StackOverflaw 
 * BootCamp Course
-* https://www.youtube.com/watch?v=MxfxiR8TVNU&ab_channel=JonnyKalambay
+* https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql
