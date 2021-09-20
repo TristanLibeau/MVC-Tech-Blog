@@ -12,7 +12,7 @@ This application is a simple blog where you can post, modify or ven comment on a
 
 * URL of my Repository:
 
-https://github.com/TristanLibeau/MVC-Tech_Blog
+https://github.com/TristanLibeau/MVC-Tech-Blog
 
 * Live url on Heroku:
 
